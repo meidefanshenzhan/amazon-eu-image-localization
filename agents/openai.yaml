@@ -1,0 +1,4 @@
+interface:
+  display_name: "欧洲亚马逊图片翻译与验收"
+  short_description: "德法套图和A+本地化、原图保真、三角度收纳白底及逐图验收"
+  default_prompt: "请使用 $amazon-eu-image-localization，按EU产品表筛选SKU并完成德法套图、A+和三角度白底图，优先本地原图并更新验收进度。"
